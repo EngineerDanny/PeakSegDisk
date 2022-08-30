@@ -3,10 +3,12 @@
 
 ## TEST 1
 Rperform::plot_metrics(
-    test_path = "tests/testthat/test-TRAVIS-sequentialSearch.R",
-    metric = "time", num_commits = 10,
+    test_path = "tests/testthat/test-CRAN-wc2int.R",
+    metric = "time", num_commits = 50,
     save_data = TRUE,
-    save_plots = TRUE
+    save_plots = TRUE,
+    total_height_in = 30
+
 )
 
 
