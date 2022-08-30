@@ -1,0 +1,241 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","finite penalty returns list","runtime (in seconds)","pass",0.0076288,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"2","finite penalty returns list","runtime (in seconds)","pass",0.0070781,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"3","finite penalty returns list","runtime (in seconds)","pass",0.0069412,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"4","Inf penalty returns list","runtime (in seconds)","pass",0.0075545,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"5","Inf penalty returns list","runtime (in seconds)","pass",0.0070666,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"6","Inf penalty returns list","runtime (in seconds)","pass",0.0068888,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"7","error for non-numeric penalty","runtime (in seconds)","pass",0.0116222,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"8","error for non-numeric penalty","runtime (in seconds)","pass",0.0109709,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"9","error for non-numeric penalty","runtime (in seconds)","pass",0.0107804,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"10","error for NAN penalty","runtime (in seconds)","pass",0.0112531,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"11","error for NAN penalty","runtime (in seconds)","pass",0.0106173,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"12","error for NAN penalty","runtime (in seconds)","pass",0.0104897,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"13","error for negative penalty","runtime (in seconds)","pass",0.0112866,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"14","error for negative penalty","runtime (in seconds)","pass",0.0106085,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"15","error for negative penalty","runtime (in seconds)","pass",0.0105398,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"16","error for file that does not exist","runtime (in seconds)","pass",0.0112646,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"17","error for file that does not exist","runtime (in seconds)","pass",0.0106726,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"18","error for file that does not exist","runtime (in seconds)","pass",0.0104741,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"19","error for three column data file","runtime (in seconds)","pass",0.0111732,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"20","error for three column data file","runtime (in seconds)","pass",0.0106567,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"21","error for three column data file","runtime (in seconds)","pass",0.0105452,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"22","error for non-integer data","runtime (in seconds)","pass",0.011336,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"23","error for non-integer data","runtime (in seconds)","pass",0.0106898,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"24","error for non-integer data","runtime (in seconds)","pass",0.0105875,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"25","error for no data","runtime (in seconds)","pass",0.011341,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"26","error for no data","runtime (in seconds)","pass",0.0106974,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"27","error for no data","runtime (in seconds)","pass",0.0105444,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"28","error if segments file unwritable","runtime (in seconds)","pass",0.0114443,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"29","error if segments file unwritable","runtime (in seconds)","pass",0.0108687,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"30","error if segments file unwritable","runtime (in seconds)","pass",0.0107475,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"31","error if loss file unwritable","runtime (in seconds)","pass",0.0115263,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"32","error if loss file unwritable","runtime (in seconds)","pass",0.0108634,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"33","error if loss file unwritable","runtime (in seconds)","pass",0.0107293,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"34","error if db file unwritable","runtime (in seconds)","pass",0.0113613,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"35","error if db file unwritable","runtime (in seconds)","pass",0.0107095,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"36","error if db file unwritable","runtime (in seconds)","pass",0.010622,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"37","error if first arg non-char","runtime (in seconds)","pass",0.0114782,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"38","error if first arg non-char","runtime (in seconds)","pass",0.0107704,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"39","error if first arg non-char","runtime (in seconds)","pass",0.0106644,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"40","error if second arg non-char","runtime (in seconds)","pass",0.0112007,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"41","error if second arg non-char","runtime (in seconds)","pass",0.010562,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"42","error if second arg non-char","runtime (in seconds)","pass",0.010502,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"43","error if third arg non-char","runtime (in seconds)","pass",0.0111352,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"44","error if third arg non-char","runtime (in seconds)","pass",0.0105726,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"45","error if third arg non-char","runtime (in seconds)","pass",0.0105218,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"46","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.2114233,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"47","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1998571,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"48","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.2005049,"Merge 45d255870","f4ad0ef91adc03f47dd1e01d354f425e216acba6",2022-08-30 04:58:21
+"49","finite penalty returns list","runtime (in seconds)","pass",0.0078363,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"50","finite penalty returns list","runtime (in seconds)","pass",0.0071843,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"51","finite penalty returns list","runtime (in seconds)","pass",0.0071279,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"52","Inf penalty returns list","runtime (in seconds)","pass",0.0076939,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"53","Inf penalty returns list","runtime (in seconds)","pass",0.0073263,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"54","Inf penalty returns list","runtime (in seconds)","pass",0.0072753,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"55","error for non-numeric penalty","runtime (in seconds)","pass",0.0118611,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"56","error for non-numeric penalty","runtime (in seconds)","pass",0.0112298,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"57","error for non-numeric penalty","runtime (in seconds)","pass",0.0111302,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"58","error for NAN penalty","runtime (in seconds)","pass",0.0117602,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"59","error for NAN penalty","runtime (in seconds)","pass",0.0111553,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"60","error for NAN penalty","runtime (in seconds)","pass",0.01117,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"61","error for negative penalty","runtime (in seconds)","pass",0.0116532,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"62","error for negative penalty","runtime (in seconds)","pass",0.0110654,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"63","error for negative penalty","runtime (in seconds)","pass",0.0108503,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"64","error for file that does not exist","runtime (in seconds)","pass",0.0118522,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"65","error for file that does not exist","runtime (in seconds)","pass",0.0110663,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"66","error for file that does not exist","runtime (in seconds)","pass",0.0108278,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"67","error for three column data file","runtime (in seconds)","pass",0.0121478,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"68","error for three column data file","runtime (in seconds)","pass",0.0114445,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"69","error for three column data file","runtime (in seconds)","pass",0.0111737,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"70","error for non-integer data","runtime (in seconds)","pass",0.0118886,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"71","error for non-integer data","runtime (in seconds)","pass",0.0111769,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"72","error for non-integer data","runtime (in seconds)","pass",0.0111326,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"73","error for no data","runtime (in seconds)","pass",0.0116226,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"74","error for no data","runtime (in seconds)","pass",0.0109993,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"75","error for no data","runtime (in seconds)","pass",0.0111078,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"76","error if segments file unwritable","runtime (in seconds)","pass",0.0134211,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"77","error if segments file unwritable","runtime (in seconds)","pass",0.0113182,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"78","error if segments file unwritable","runtime (in seconds)","pass",0.0110989,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"79","error if loss file unwritable","runtime (in seconds)","pass",0.0119002,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"80","error if loss file unwritable","runtime (in seconds)","pass",0.0114114,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"81","error if loss file unwritable","runtime (in seconds)","pass",0.0112578,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"82","error if db file unwritable","runtime (in seconds)","pass",0.01226,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"83","error if db file unwritable","runtime (in seconds)","pass",0.0113412,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"84","error if db file unwritable","runtime (in seconds)","pass",0.0110493,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"85","error if first arg non-char","runtime (in seconds)","pass",0.0116387,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"86","error if first arg non-char","runtime (in seconds)","pass",0.0110928,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"87","error if first arg non-char","runtime (in seconds)","pass",0.010955,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"88","error if second arg non-char","runtime (in seconds)","pass",0.0117987,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"89","error if second arg non-char","runtime (in seconds)","pass",0.0111795,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"90","error if second arg non-char","runtime (in seconds)","pass",0.0110112,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"91","error if third arg non-char","runtime (in seconds)","pass",0.0118517,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"92","error if third arg non-char","runtime (in seconds)","pass",0.0112322,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"93","error if third arg non-char","runtime (in seconds)","pass",0.0111817,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"94","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1868111,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"95","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1923731,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"96","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1910836,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"97","finite penalty returns list","runtime (in seconds)","pass",0.008106,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"98","finite penalty returns list","runtime (in seconds)","pass",0.0074645,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"99","finite penalty returns list","runtime (in seconds)","pass",0.0073114,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"100","Inf penalty returns list","runtime (in seconds)","pass",0.0081159,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"101","Inf penalty returns list","runtime (in seconds)","pass",0.0074202,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"102","Inf penalty returns list","runtime (in seconds)","pass",0.0073916,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"103","error for non-numeric penalty","runtime (in seconds)","pass",0.0120176,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"104","error for non-numeric penalty","runtime (in seconds)","pass",0.0113906,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"105","error for non-numeric penalty","runtime (in seconds)","pass",0.011451,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"106","error for NAN penalty","runtime (in seconds)","pass",0.0120486,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"107","error for NAN penalty","runtime (in seconds)","pass",0.0113719,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"108","error for NAN penalty","runtime (in seconds)","pass",0.0112236,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"109","error for negative penalty","runtime (in seconds)","pass",0.0121114,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"110","error for negative penalty","runtime (in seconds)","pass",0.0114926,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"111","error for negative penalty","runtime (in seconds)","pass",0.0113354,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"112","error for file that does not exist","runtime (in seconds)","pass",0.0120137,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"113","error for file that does not exist","runtime (in seconds)","pass",0.0114477,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"114","error for file that does not exist","runtime (in seconds)","pass",0.0113827,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"115","error for three column data file","runtime (in seconds)","pass",0.0121288,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"116","error for three column data file","runtime (in seconds)","pass",0.0114084,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"117","error for three column data file","runtime (in seconds)","pass",0.0112171,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"118","error for non-integer data","runtime (in seconds)","pass",0.0117669,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"119","error for non-integer data","runtime (in seconds)","pass",0.0112061,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"120","error for non-integer data","runtime (in seconds)","pass",0.0110458,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"121","error for no data","runtime (in seconds)","pass",0.011677,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"122","error for no data","runtime (in seconds)","pass",0.0109475,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"123","error for no data","runtime (in seconds)","pass",0.0107978,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"124","error if segments file unwritable","runtime (in seconds)","pass",0.01208,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"125","error if segments file unwritable","runtime (in seconds)","pass",0.0114325,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"126","error if segments file unwritable","runtime (in seconds)","pass",0.0112005,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"127","error if loss file unwritable","runtime (in seconds)","pass",0.0120287,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"128","error if loss file unwritable","runtime (in seconds)","pass",0.0112814,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"129","error if loss file unwritable","runtime (in seconds)","pass",0.0111141,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"130","error if db file unwritable","runtime (in seconds)","pass",0.011803,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"131","error if db file unwritable","runtime (in seconds)","pass",0.0111663,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"132","error if db file unwritable","runtime (in seconds)","pass",0.0109147,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"133","error if first arg non-char","runtime (in seconds)","pass",0.0116704,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"134","error if first arg non-char","runtime (in seconds)","pass",0.0109174,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"135","error if first arg non-char","runtime (in seconds)","pass",0.0107886,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"136","error if second arg non-char","runtime (in seconds)","pass",0.0118547,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"137","error if second arg non-char","runtime (in seconds)","pass",0.0112426,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"138","error if second arg non-char","runtime (in seconds)","pass",0.010971,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"139","error if third arg non-char","runtime (in seconds)","pass",0.0116441,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"140","error if third arg non-char","runtime (in seconds)","pass",0.010995,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"141","error if third arg non-char","runtime (in seconds)","pass",0.0107948,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"142","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.197541,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"143","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1968105,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"144","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.2015507,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"145","finite penalty returns list","runtime (in seconds)","pass",0.0079796,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"146","finite penalty returns list","runtime (in seconds)","pass",0.0073163,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"147","finite penalty returns list","runtime (in seconds)","pass",0.0072522,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"148","Inf penalty returns list","runtime (in seconds)","pass",0.0078346,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"149","Inf penalty returns list","runtime (in seconds)","pass",0.0072237,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"150","Inf penalty returns list","runtime (in seconds)","pass",0.0072414,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"151","error for non-numeric penalty","runtime (in seconds)","pass",0.0116972,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"152","error for non-numeric penalty","runtime (in seconds)","pass",0.0111202,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"153","error for non-numeric penalty","runtime (in seconds)","pass",0.0109973,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"154","error for NAN penalty","runtime (in seconds)","pass",0.0117712,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"155","error for NAN penalty","runtime (in seconds)","pass",0.0112385,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"156","error for NAN penalty","runtime (in seconds)","pass",0.0111512,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"157","error for negative penalty","runtime (in seconds)","pass",0.011851,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"158","error for negative penalty","runtime (in seconds)","pass",0.0111906,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"159","error for negative penalty","runtime (in seconds)","pass",0.0110106,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"160","error for file that does not exist","runtime (in seconds)","pass",0.0119611,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"161","error for file that does not exist","runtime (in seconds)","pass",0.0113933,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"162","error for file that does not exist","runtime (in seconds)","pass",0.011381,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"163","error for three column data file","runtime (in seconds)","pass",0.0117701,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"164","error for three column data file","runtime (in seconds)","pass",0.0111953,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"165","error for three column data file","runtime (in seconds)","pass",0.0109909,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"166","error for non-integer data","runtime (in seconds)","pass",0.011976,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"167","error for non-integer data","runtime (in seconds)","pass",0.0114145,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"168","error for non-integer data","runtime (in seconds)","pass",0.0112768,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"169","error for no data","runtime (in seconds)","pass",0.0121295,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"170","error for no data","runtime (in seconds)","pass",0.0111045,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"171","error for no data","runtime (in seconds)","pass",0.0109514,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"172","error if segments file unwritable","runtime (in seconds)","pass",0.0121666,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"173","error if segments file unwritable","runtime (in seconds)","pass",0.0114739,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"174","error if segments file unwritable","runtime (in seconds)","pass",0.0112209,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"175","error if loss file unwritable","runtime (in seconds)","pass",0.0121043,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"176","error if loss file unwritable","runtime (in seconds)","pass",0.0115474,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"177","error if loss file unwritable","runtime (in seconds)","pass",0.0113724,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"178","error if db file unwritable","runtime (in seconds)","pass",0.0124686,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"179","error if db file unwritable","runtime (in seconds)","pass",0.0115115,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"180","error if db file unwritable","runtime (in seconds)","pass",0.0110115,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"181","error if first arg non-char","runtime (in seconds)","pass",0.0118211,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"182","error if first arg non-char","runtime (in seconds)","pass",0.0113057,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"183","error if first arg non-char","runtime (in seconds)","pass",0.0111048,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"184","error if second arg non-char","runtime (in seconds)","pass",0.0116843,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"185","error if second arg non-char","runtime (in seconds)","pass",0.0113437,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"186","error if second arg non-char","runtime (in seconds)","pass",0.0110955,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"187","error if third arg non-char","runtime (in seconds)","pass",0.0116583,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"188","error if third arg non-char","runtime (in seconds)","pass",0.0109938,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"189","error if third arg non-char","runtime (in seconds)","pass",0.0108052,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"190","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1925678,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"191","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1945722,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"192","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.2009339,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"193","finite penalty returns list","runtime (in seconds)","pass",0.0078998,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"194","finite penalty returns list","runtime (in seconds)","pass",0.0072775,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"195","finite penalty returns list","runtime (in seconds)","pass",0.0072697,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"196","Inf penalty returns list","runtime (in seconds)","pass",0.0075589,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"197","Inf penalty returns list","runtime (in seconds)","pass",0.0070432,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"198","Inf penalty returns list","runtime (in seconds)","pass",0.0069911,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"199","error for non-numeric penalty","runtime (in seconds)","pass",0.0114188,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"200","error for non-numeric penalty","runtime (in seconds)","pass",0.0108994,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"201","error for non-numeric penalty","runtime (in seconds)","pass",0.0106777,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"202","error for NAN penalty","runtime (in seconds)","pass",0.0112909,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"203","error for NAN penalty","runtime (in seconds)","pass",0.010689,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"204","error for NAN penalty","runtime (in seconds)","pass",0.0105037,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"205","error for negative penalty","runtime (in seconds)","pass",0.0115418,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"206","error for negative penalty","runtime (in seconds)","pass",0.0108549,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"207","error for negative penalty","runtime (in seconds)","pass",0.0106485,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"208","error for file that does not exist","runtime (in seconds)","pass",0.0115069,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"209","error for file that does not exist","runtime (in seconds)","pass",0.0109115,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"210","error for file that does not exist","runtime (in seconds)","pass",0.0106744,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"211","error for three column data file","runtime (in seconds)","pass",0.0115597,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"212","error for three column data file","runtime (in seconds)","pass",0.0109451,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"213","error for three column data file","runtime (in seconds)","pass",0.010807,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"214","error for non-integer data","runtime (in seconds)","pass",0.011768,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"215","error for non-integer data","runtime (in seconds)","pass",0.0112046,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"216","error for non-integer data","runtime (in seconds)","pass",0.0108654,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"217","error for no data","runtime (in seconds)","pass",0.0114871,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"218","error for no data","runtime (in seconds)","pass",0.0108564,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"219","error for no data","runtime (in seconds)","pass",0.01072,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"220","error if segments file unwritable","runtime (in seconds)","pass",0.0118698,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"221","error if segments file unwritable","runtime (in seconds)","pass",0.0112616,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"222","error if segments file unwritable","runtime (in seconds)","pass",0.0109861,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"223","error if loss file unwritable","runtime (in seconds)","pass",0.0119864,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"224","error if loss file unwritable","runtime (in seconds)","pass",0.0122646,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"225","error if loss file unwritable","runtime (in seconds)","pass",0.0113513,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"226","error if db file unwritable","runtime (in seconds)","pass",0.0118726,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"227","error if db file unwritable","runtime (in seconds)","pass",0.0113954,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"228","error if db file unwritable","runtime (in seconds)","pass",0.0111884,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"229","error if first arg non-char","runtime (in seconds)","pass",0.0115061,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"230","error if first arg non-char","runtime (in seconds)","pass",0.0108892,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"231","error if first arg non-char","runtime (in seconds)","pass",0.0107824,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"232","error if second arg non-char","runtime (in seconds)","pass",0.0117037,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"233","error if second arg non-char","runtime (in seconds)","pass",0.0109849,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"234","error if second arg non-char","runtime (in seconds)","pass",0.0107715,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"235","error if third arg non-char","runtime (in seconds)","pass",0.0116178,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"236","error if third arg non-char","runtime (in seconds)","pass",0.0111386,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"237","error if third arg non-char","runtime (in seconds)","pass",0.0108973,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"238","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.1924245,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"239","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.188887,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"240","test-CRAN-cpp-errors.R","runtime (in seconds)","pass",0.188808,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
