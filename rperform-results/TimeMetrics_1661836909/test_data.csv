@@ -1,0 +1,707 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","wc2int works with initial space","runtime (in seconds)","pass",0.008713,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"2","wc2int works with initial space","runtime (in seconds)","pass",0.0075423,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"3","wc2int works with initial space","runtime (in seconds)","pass",0.0073812,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"4","wc2int works without initial space","runtime (in seconds)","pass",0.0086031,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"5","wc2int works without initial space","runtime (in seconds)","pass",0.0075002,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"6","wc2int works without initial space","runtime (in seconds)","pass",0.007379,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"7","wc2int error for bad input","runtime (in seconds)","pass",0.0381087,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"8","wc2int error for bad input","runtime (in seconds)","pass",0.0379352,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"9","wc2int error for bad input","runtime (in seconds)","pass",0.041514,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"10","wc2int error for no size","runtime (in seconds)","pass",0.0244429,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"11","wc2int error for no size","runtime (in seconds)","pass",0.023823,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"12","wc2int error for no size","runtime (in seconds)","pass",0.0247822,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"13","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0936074,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"14","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0828444,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"15","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0759752,"Merge d11ae4d76","3ab9540739b11b85574acd00a05ec7f1cbfa782c",2022-08-30 05:19:41
+"16","wc2int works with initial space","runtime (in seconds)","pass",0.0086738,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"17","wc2int works with initial space","runtime (in seconds)","pass",0.0077334,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"18","wc2int works with initial space","runtime (in seconds)","pass",0.0076759,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"19","wc2int works without initial space","runtime (in seconds)","pass",0.0085958,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"20","wc2int works without initial space","runtime (in seconds)","pass",0.0075915,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"21","wc2int works without initial space","runtime (in seconds)","pass",0.0074934,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"22","wc2int error for bad input","runtime (in seconds)","pass",0.038248,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"23","wc2int error for bad input","runtime (in seconds)","pass",0.0381217,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"24","wc2int error for bad input","runtime (in seconds)","pass",0.0415812,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"25","wc2int error for no size","runtime (in seconds)","pass",0.0239495,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"26","wc2int error for no size","runtime (in seconds)","pass",0.0230297,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"27","wc2int error for no size","runtime (in seconds)","pass",0.0231426,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"28","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0756325,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"29","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0761385,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"30","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0767534,"update script","d11ae4d7612e9f96965993a1519f64fe57c3c4aa",2022-08-30 05:19:37
+"31","wc2int works with initial space","runtime (in seconds)","pass",0.0084525,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"32","wc2int works with initial space","runtime (in seconds)","pass",0.0075723,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"33","wc2int works with initial space","runtime (in seconds)","pass",0.0073699,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"34","wc2int works without initial space","runtime (in seconds)","pass",0.0086352,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"35","wc2int works without initial space","runtime (in seconds)","pass",0.0076199,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"36","wc2int works without initial space","runtime (in seconds)","pass",0.0075403,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"37","wc2int error for bad input","runtime (in seconds)","pass",0.037819,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"38","wc2int error for bad input","runtime (in seconds)","pass",0.0378811,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"39","wc2int error for bad input","runtime (in seconds)","pass",0.0415001,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"40","wc2int error for no size","runtime (in seconds)","pass",0.0248314,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"41","wc2int error for no size","runtime (in seconds)","pass",0.0237276,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"42","wc2int error for no size","runtime (in seconds)","pass",0.0245741,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"43","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0741189,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"44","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0758344,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"45","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0752147,"update script","e301c02b57598ed234cedeee50d670edd5a96282",2022-08-30 05:12:01
+"46","wc2int works with initial space","runtime (in seconds)","pass",0.0082899,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"47","wc2int works with initial space","runtime (in seconds)","pass",0.0073949,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"48","wc2int works with initial space","runtime (in seconds)","pass",0.0072697,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"49","wc2int works without initial space","runtime (in seconds)","pass",0.0088109,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"50","wc2int works without initial space","runtime (in seconds)","pass",0.0077785,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"51","wc2int works without initial space","runtime (in seconds)","pass",0.0075571,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"52","wc2int error for bad input","runtime (in seconds)","pass",0.0381243,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"53","wc2int error for bad input","runtime (in seconds)","pass",0.0378162,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"54","wc2int error for bad input","runtime (in seconds)","pass",0.0413495,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"55","wc2int error for no size","runtime (in seconds)","pass",0.0239665,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"56","wc2int error for no size","runtime (in seconds)","pass",0.0227996,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"57","wc2int error for no size","runtime (in seconds)","pass",0.0229568,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"58","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0721616,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"59","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0741191,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"60","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0744219,"update script","45d255870d0f06e1deaa568c388d98a41621bcf6",2022-08-30 04:58:18
+"61","wc2int works with initial space","runtime (in seconds)","pass",0.0082253,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"62","wc2int works with initial space","runtime (in seconds)","pass",0.007346,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"63","wc2int works with initial space","runtime (in seconds)","pass",0.0072275,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"64","wc2int works without initial space","runtime (in seconds)","pass",0.008301,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"65","wc2int works without initial space","runtime (in seconds)","pass",0.0073855,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"66","wc2int works without initial space","runtime (in seconds)","pass",0.0073935,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"67","wc2int error for bad input","runtime (in seconds)","pass",0.0379636,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"68","wc2int error for bad input","runtime (in seconds)","pass",0.0376923,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"69","wc2int error for bad input","runtime (in seconds)","pass",0.0408105,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"70","wc2int error for no size","runtime (in seconds)","pass",0.0242794,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"71","wc2int error for no size","runtime (in seconds)","pass",0.0231457,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"72","wc2int error for no size","runtime (in seconds)","pass",0.0240784,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"73","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.074829,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"74","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0771939,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"75","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0756719,"updates script","d7f94d8f85076f61911877723f5521bb6bbb6458",2022-08-30 04:42:58
+"76","wc2int works with initial space","runtime (in seconds)","pass",0.0082493,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"77","wc2int works with initial space","runtime (in seconds)","pass",0.007434,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"78","wc2int works with initial space","runtime (in seconds)","pass",0.007318,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"79","wc2int works without initial space","runtime (in seconds)","pass",0.0081802,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"80","wc2int works without initial space","runtime (in seconds)","pass",0.007418,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"81","wc2int works without initial space","runtime (in seconds)","pass",0.0073719,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"82","wc2int error for bad input","runtime (in seconds)","pass",0.0377291,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"83","wc2int error for bad input","runtime (in seconds)","pass",0.0387774,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"84","wc2int error for bad input","runtime (in seconds)","pass",0.041285,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"85","wc2int error for no size","runtime (in seconds)","pass",0.0246661,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"86","wc2int error for no size","runtime (in seconds)","pass",0.0232828,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"87","wc2int error for no size","runtime (in seconds)","pass",0.0241271,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"88","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0731628,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"89","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.076097,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"90","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0784338,"initialize Rper","3e54a6ee49802b1bf3ffacf988dcec8a2401a9c0",2022-08-30 04:42:19
+"91","wc2int works with initial space","runtime (in seconds)","pass",0.0087686,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"92","wc2int works with initial space","runtime (in seconds)","pass",0.0077464,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"93","wc2int works with initial space","runtime (in seconds)","pass",0.0075041,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"94","wc2int works without initial space","runtime (in seconds)","pass",0.0083477,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"95","wc2int works without initial space","runtime (in seconds)","pass",0.0076999,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"96","wc2int works without initial space","runtime (in seconds)","pass",0.0075826,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"97","wc2int error for bad input","runtime (in seconds)","pass",0.0389779,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"98","wc2int error for bad input","runtime (in seconds)","pass",0.0378559,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"99","wc2int error for bad input","runtime (in seconds)","pass",0.0442106,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"100","wc2int error for no size","runtime (in seconds)","pass",0.0243763,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"101","wc2int error for no size","runtime (in seconds)","pass",0.0234533,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"102","wc2int error for no size","runtime (in seconds)","pass",0.0235421,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"103","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0723045,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"104","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0742722,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"105","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0741034,"update url","cbd3ca669ad6dbe9b5d66ecfb7953f4ad27b80c9",2022-02-02 05:19:43
+"106","wc2int works with initial space","runtime (in seconds)","pass",0.0082709,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"107","wc2int works with initial space","runtime (in seconds)","pass",0.0073604,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"108","wc2int works with initial space","runtime (in seconds)","pass",0.0072281,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"109","wc2int works without initial space","runtime (in seconds)","pass",0.008396,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"110","wc2int works without initial space","runtime (in seconds)","pass",0.007576,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"111","wc2int works without initial space","runtime (in seconds)","pass",0.0074208,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"112","wc2int error for bad input","runtime (in seconds)","pass",0.0387845,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"113","wc2int error for bad input","runtime (in seconds)","pass",0.0384105,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"114","wc2int error for bad input","runtime (in seconds)","pass",0.0414623,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"115","wc2int error for no size","runtime (in seconds)","pass",0.0249978,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"116","wc2int error for no size","runtime (in seconds)","pass",0.0245938,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"117","wc2int error for no size","runtime (in seconds)","pass",0.0256983,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"118","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0778822,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"119","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0778074,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"120","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0766384,"jss + gh action","29e5bbbf43b4b2fc464e802bf20e889b75dd461d",2022-02-02 03:56:09
+"121","wc2int works with initial space","runtime (in seconds)","pass",0.0089624,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"122","wc2int works with initial space","runtime (in seconds)","pass",0.007627,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"123","wc2int works with initial space","runtime (in seconds)","pass",0.0074553,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"124","wc2int works without initial space","runtime (in seconds)","pass",0.0089023,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"125","wc2int works without initial space","runtime (in seconds)","pass",0.0078243,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"126","wc2int works without initial space","runtime (in seconds)","pass",0.0075196,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"127","wc2int error for bad input","runtime (in seconds)","pass",0.038559,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"128","wc2int error for bad input","runtime (in seconds)","pass",0.0419618,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"129","wc2int error for bad input","runtime (in seconds)","pass",0.0441316,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"130","wc2int error for no size","runtime (in seconds)","pass",0.0243691,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"131","wc2int error for no size","runtime (in seconds)","pass",0.0231025,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"132","wc2int error for no size","runtime (in seconds)","pass",0.0233634,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"133","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0742353,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"134","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0779022,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"135","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0795373,"version++","f3c461bf3858d3981eb08f8af371a7ca49d9d188",2020-08-13 22:05:38
+"136","wc2int works with initial space","runtime (in seconds)","pass",0.0084815,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"137","wc2int works with initial space","runtime (in seconds)","pass",0.0075354,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"138","wc2int works with initial space","runtime (in seconds)","pass",0.0073196,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"139","wc2int works without initial space","runtime (in seconds)","pass",0.0083623,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"140","wc2int works without initial space","runtime (in seconds)","pass",0.007379,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"141","wc2int works without initial space","runtime (in seconds)","pass",0.0072731,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"142","wc2int error for bad input","runtime (in seconds)","pass",0.0381086,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"143","wc2int error for bad input","runtime (in seconds)","pass",0.0379435,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"144","wc2int error for bad input","runtime (in seconds)","pass",0.0418081,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"145","wc2int error for no size","runtime (in seconds)","pass",0.024646,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"146","wc2int error for no size","runtime (in seconds)","pass",0.0234309,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"147","wc2int error for no size","runtime (in seconds)","pass",0.0246822,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"148","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0814244,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"149","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0759043,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"150","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0749943,"Merge pull requ","183ba4496a9ba7386ace413b5958f435c9a9ae78",2020-01-15 20:17:19
+"151","wc2int works with initial space","runtime (in seconds)","pass",0.0092426,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"152","wc2int works with initial space","runtime (in seconds)","pass",0.0079814,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"153","wc2int works with initial space","runtime (in seconds)","pass",0.0078502,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"154","wc2int works without initial space","runtime (in seconds)","pass",0.00872,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"155","wc2int works without initial space","runtime (in seconds)","pass",0.0075782,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"156","wc2int works without initial space","runtime (in seconds)","pass",0.0073982,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"157","wc2int error for bad input","runtime (in seconds)","pass",0.0388964,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"158","wc2int error for bad input","runtime (in seconds)","pass",0.0384224,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"159","wc2int error for bad input","runtime (in seconds)","pass",0.0422438,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"160","wc2int error for no size","runtime (in seconds)","pass",0.0259751,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"161","wc2int error for no size","runtime (in seconds)","pass",0.0237584,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"162","wc2int error for no size","runtime (in seconds)","pass",0.0246811,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"163","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0715701,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"164","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0732846,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"165","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0760288,"TRAVIS bad path","51ca78c5366fb5c07e8dfcc7b85dafb2d18a920d",2019-12-09 22:36:23
+"166","wc2int works with initial space","runtime (in seconds)","pass",0.0088499,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"167","wc2int works with initial space","runtime (in seconds)","pass",0.0078568,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"168","wc2int works with initial space","runtime (in seconds)","pass",0.0077318,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"169","wc2int works without initial space","runtime (in seconds)","pass",0.0090377,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"170","wc2int works without initial space","runtime (in seconds)","pass",0.0081923,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"171","wc2int works without initial space","runtime (in seconds)","pass",0.0080162,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"172","wc2int error for bad input","runtime (in seconds)","pass",0.039925,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"173","wc2int error for bad input","runtime (in seconds)","pass",0.0390713,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"174","wc2int error for bad input","runtime (in seconds)","pass",0.0431703,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"175","wc2int error for no size","runtime (in seconds)","pass",0.0253302,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"176","wc2int error for no size","runtime (in seconds)","pass",0.0246607,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"177","wc2int error for no size","runtime (in seconds)","pass",0.0245031,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"178","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.073793,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"179","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0754713,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"180","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.076483,"docs link break","13ecc3c46463515a4cfd33119bc797b7e462ade8",2019-12-09 16:58:50
+"181","wc2int works with initial space","runtime (in seconds)","pass",0.0084708,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"182","wc2int works with initial space","runtime (in seconds)","pass",0.0074784,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"183","wc2int works with initial space","runtime (in seconds)","pass",0.007272,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"184","wc2int works without initial space","runtime (in seconds)","pass",0.0086324,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"185","wc2int works without initial space","runtime (in seconds)","pass",0.007653,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"186","wc2int works without initial space","runtime (in seconds)","pass",0.0074973,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"187","wc2int error for bad input","runtime (in seconds)","pass",0.0385241,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"188","wc2int error for bad input","runtime (in seconds)","pass",0.0384654,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"189","wc2int error for bad input","runtime (in seconds)","pass",0.0420272,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"190","wc2int error for no size","runtime (in seconds)","pass",0.0251027,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"191","wc2int error for no size","runtime (in seconds)","pass",0.0238099,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"192","wc2int error for no size","runtime (in seconds)","pass",0.0247799,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"193","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0754581,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"194","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0775062,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"195","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0792634,"fread(file=","313d526cd71fcb3085491a4a0fca7e35ff4d65e3",2019-12-09 16:45:26
+"196","wc2int works with initial space","runtime (in seconds)","pass",0.0085238,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"197","wc2int works with initial space","runtime (in seconds)","pass",0.0076829,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"198","wc2int works with initial space","runtime (in seconds)","pass",0.0075098,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"199","wc2int works without initial space","runtime (in seconds)","pass",0.0084515,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"200","wc2int works without initial space","runtime (in seconds)","pass",0.0075348,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"201","wc2int works without initial space","runtime (in seconds)","pass",0.0074014,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"202","wc2int error for bad input","runtime (in seconds)","pass",0.0387935,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"203","wc2int error for bad input","runtime (in seconds)","pass",0.0381911,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"204","wc2int error for bad input","runtime (in seconds)","pass",0.041499,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"205","wc2int error for no size","runtime (in seconds)","pass",0.0242599,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"206","wc2int error for no size","runtime (in seconds)","pass",0.0228452,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"207","wc2int error for no size","runtime (in seconds)","pass",0.0229135,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"208","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0740976,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"209","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0756377,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"210","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0760484,"merge bad paths","10bb0ed788c7b6ee549d841b87755108a106b9ed",2019-12-09 15:51:37
+"211","wc2int works with initial space","runtime (in seconds)","pass",0.0080221,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"212","wc2int works with initial space","runtime (in seconds)","pass",0.0072745,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"213","wc2int works with initial space","runtime (in seconds)","pass",0.007161,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"214","wc2int works without initial space","runtime (in seconds)","pass",0.00813,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"215","wc2int works without initial space","runtime (in seconds)","pass",0.0073231,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"216","wc2int works without initial space","runtime (in seconds)","pass",0.0072649,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"217","wc2int error for bad input","runtime (in seconds)","pass",0.0375797,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"218","wc2int error for bad input","runtime (in seconds)","pass",0.0376673,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"219","wc2int error for bad input","runtime (in seconds)","pass",0.0412644,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"220","wc2int error for no size","runtime (in seconds)","pass",0.0243448,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"221","wc2int error for no size","runtime (in seconds)","pass",0.0231418,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"222","wc2int error for no size","runtime (in seconds)","pass",0.023978,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"223","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0735504,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"224","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0748428,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"225","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.074871,"Merge pull requ","3aa49c18ab4484fbed21092a78caa261def42148",2019-12-08 21:10:11
+"226","wc2int works with initial space","runtime (in seconds)","pass",0.0082265,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"227","wc2int works with initial space","runtime (in seconds)","pass",0.0073221,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"228","wc2int works with initial space","runtime (in seconds)","pass",0.0072694,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"229","wc2int works without initial space","runtime (in seconds)","pass",0.0081572,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"230","wc2int works without initial space","runtime (in seconds)","pass",0.0074024,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"231","wc2int works without initial space","runtime (in seconds)","pass",0.0073285,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"232","wc2int error for bad input","runtime (in seconds)","pass",0.0374769,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"233","wc2int error for bad input","runtime (in seconds)","pass",0.037634,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"234","wc2int error for bad input","runtime (in seconds)","pass",0.0408799,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"235","wc2int error for no size","runtime (in seconds)","pass",0.0240314,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"236","wc2int error for no size","runtime (in seconds)","pass",0.0228318,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"237","wc2int error for no size","runtime (in seconds)","pass",0.0228374,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"238","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0718902,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"239","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0737335,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"240","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0732071,"fix fread.last","b03b160a5524be2214d10baab9d997f9df0c171f",2019-12-08 20:50:29
+"241","wc2int works with initial space","runtime (in seconds)","pass",0.0082977,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"242","wc2int works with initial space","runtime (in seconds)","pass",0.0073381,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"243","wc2int works with initial space","runtime (in seconds)","pass",0.0073019,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"244","wc2int works without initial space","runtime (in seconds)","pass",0.0080766,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"245","wc2int works without initial space","runtime (in seconds)","pass",0.0074897,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"246","wc2int works without initial space","runtime (in seconds)","pass",0.0075965,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"247","wc2int error for bad input","runtime (in seconds)","pass",0.0384899,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"248","wc2int error for bad input","runtime (in seconds)","pass",0.0380835,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"249","wc2int error for bad input","runtime (in seconds)","pass",0.0426482,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"250","wc2int error for no size","runtime (in seconds)","pass",0.0260303,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"251","wc2int error for no size","runtime (in seconds)","pass",0.0247815,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"252","wc2int error for no size","runtime (in seconds)","pass",0.0245646,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"253","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0716989,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"254","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0748772,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"255","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0787689,"fix reviewer is","645fc3fb0f43a11cb83d98fc8123da5c797d70aa",2019-12-02 19:36:38
+"256","wc2int works with initial space","runtime (in seconds)","pass",0.0086351,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"257","wc2int works with initial space","runtime (in seconds)","pass",0.0075969,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"258","wc2int works with initial space","runtime (in seconds)","pass",0.0074137,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"259","wc2int works without initial space","runtime (in seconds)","pass",0.0085827,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"260","wc2int works without initial space","runtime (in seconds)","pass",0.0074182,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"261","wc2int works without initial space","runtime (in seconds)","pass",0.0073031,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"262","wc2int error for bad input","runtime (in seconds)","pass",0.0381241,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"263","wc2int error for bad input","runtime (in seconds)","pass",0.0377244,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"264","wc2int error for bad input","runtime (in seconds)","pass",0.0425059,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"265","wc2int error for no size","runtime (in seconds)","pass",0.0250805,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"266","wc2int error for no size","runtime (in seconds)","pass",0.0235976,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"267","wc2int error for no size","runtime (in seconds)","pass",0.0244253,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"268","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0762774,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"269","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0803784,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"270","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0779627,"Merge pull requ","aeecaad3420255006b8b4ec0f94bcaff23b10788",2019-11-18 21:16:34
+"271","wc2int works with initial space","runtime (in seconds)","pass",0.008556,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"272","wc2int works with initial space","runtime (in seconds)","pass",0.007505,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"273","wc2int works with initial space","runtime (in seconds)","pass",0.0072955,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"274","wc2int works without initial space","runtime (in seconds)","pass",0.0082389,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"275","wc2int works without initial space","runtime (in seconds)","pass",0.0079516,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"276","wc2int works without initial space","runtime (in seconds)","pass",0.0079731,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"277","wc2int error for bad input","runtime (in seconds)","pass",0.037867,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"278","wc2int error for bad input","runtime (in seconds)","pass",0.0377863,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"279","wc2int error for bad input","runtime (in seconds)","pass",0.0430944,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"280","wc2int error for no size","runtime (in seconds)","pass",0.0242186,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"281","wc2int error for no size","runtime (in seconds)","pass",0.022999,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"282","wc2int error for no size","runtime (in seconds)","pass",0.0230078,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"283","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.074174,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"284","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0766936,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"285","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0766662,"docs/test","c84fce3bb0ffebc0ede906dba2140739dae17353",2019-11-18 20:35:17
+"286","wc2int works with initial space","runtime (in seconds)","pass",0.0082933,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"287","wc2int works with initial space","runtime (in seconds)","pass",0.0074916,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"288","wc2int works with initial space","runtime (in seconds)","pass",0.0073128,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"289","wc2int works without initial space","runtime (in seconds)","pass",0.0089923,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"290","wc2int works without initial space","runtime (in seconds)","pass",0.007815,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"291","wc2int works without initial space","runtime (in seconds)","pass",0.0076184,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"292","wc2int error for bad input","runtime (in seconds)","pass",0.0386158,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"293","wc2int error for bad input","runtime (in seconds)","pass",0.0377699,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"294","wc2int error for bad input","runtime (in seconds)","pass",0.0411809,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"295","wc2int error for no size","runtime (in seconds)","pass",0.0251982,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"296","wc2int error for no size","runtime (in seconds)","pass",0.0237325,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"297","wc2int error for no size","runtime (in seconds)","pass",0.0243244,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"298","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0753125,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"299","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0774084,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"300","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0766789,".C db file arg ","cf0d230360c84881858afe230af4d9e255313c04",2019-09-27 20:41:32
+"301","wc2int works with initial space","runtime (in seconds)","pass",0.0086045,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"302","wc2int works with initial space","runtime (in seconds)","pass",0.0075223,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"303","wc2int works with initial space","runtime (in seconds)","pass",0.0073305,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"304","wc2int works without initial space","runtime (in seconds)","pass",0.0083817,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"305","wc2int works without initial space","runtime (in seconds)","pass",0.0075082,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"306","wc2int works without initial space","runtime (in seconds)","pass",0.0073566,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"307","wc2int error for bad input","runtime (in seconds)","pass",0.0383975,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"308","wc2int error for bad input","runtime (in seconds)","pass",0.037886,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"309","wc2int error for bad input","runtime (in seconds)","pass",0.041388,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"310","wc2int error for no size","runtime (in seconds)","pass",0.0242429,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"311","wc2int error for no size","runtime (in seconds)","pass",0.0231821,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"312","wc2int error for no size","runtime (in seconds)","pass",0.0237932,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"313","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0745756,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"314","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0775597,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"315","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0759186,"tests for temp ","aa865dc42ead244d4f6d3ed525e7f97518eff32c",2019-09-27 20:33:18
+"316","wc2int works with initial space","runtime (in seconds)","pass",0.0083807,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"317","wc2int works with initial space","runtime (in seconds)","pass",0.007514,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"318","wc2int works with initial space","runtime (in seconds)","pass",0.0073827,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"319","wc2int works without initial space","runtime (in seconds)","pass",0.0083085,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"320","wc2int works without initial space","runtime (in seconds)","pass",0.0074366,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"321","wc2int works without initial space","runtime (in seconds)","pass",0.0073286,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"322","wc2int error for bad input","runtime (in seconds)","pass",0.0382132,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"323","wc2int error for bad input","runtime (in seconds)","pass",0.0377677,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"324","wc2int error for bad input","runtime (in seconds)","pass",0.0412255,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"325","wc2int error for no size","runtime (in seconds)","pass",0.0243787,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"326","wc2int error for no size","runtime (in seconds)","pass",0.0227335,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"327","wc2int error for no size","runtime (in seconds)","pass",0.0227071,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"328","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0749067,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"329","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0762856,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"330","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0772472,"temp db arg","b72f2386a802ff20859b23793b3f33119da976dc",2019-09-27 20:09:10
+"331","wc2int works with initial space","runtime (in seconds)","pass",0.008463,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"332","wc2int works with initial space","runtime (in seconds)","pass",0.0076178,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"333","wc2int works with initial space","runtime (in seconds)","pass",0.0074454,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"334","wc2int works without initial space","runtime (in seconds)","pass",0.0085342,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"335","wc2int works without initial space","runtime (in seconds)","pass",0.0076227,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"336","wc2int works without initial space","runtime (in seconds)","pass",0.0075516,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"337","wc2int error for bad input","runtime (in seconds)","pass",0.0384951,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"338","wc2int error for bad input","runtime (in seconds)","pass",0.0385419,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"339","wc2int error for bad input","runtime (in seconds)","pass",0.0420645,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"340","wc2int error for no size","runtime (in seconds)","pass",0.0250785,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"341","wc2int error for no size","runtime (in seconds)","pass",0.0239306,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"342","wc2int error for no size","runtime (in seconds)","pass",0.0250729,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"343","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0769155,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"344","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0800937,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"345","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0837136,"update title/in","64bf6ddf7e26be74c4cc84902f9c384b1c5b01fa",2019-09-10 23:09:58
+"346","wc2int works with initial space","runtime (in seconds)","pass",0.0084298,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"347","wc2int works with initial space","runtime (in seconds)","pass",0.0075001,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"348","wc2int works with initial space","runtime (in seconds)","pass",0.007366,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"349","wc2int works without initial space","runtime (in seconds)","pass",0.0083778,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"350","wc2int works without initial space","runtime (in seconds)","pass",0.0075123,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"351","wc2int works without initial space","runtime (in seconds)","pass",0.0073677,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"352","wc2int error for bad input","runtime (in seconds)","pass",0.0383219,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"353","wc2int error for bad input","runtime (in seconds)","pass",0.0382352,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"354","wc2int error for bad input","runtime (in seconds)","pass",0.0422309,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"355","wc2int error for no size","runtime (in seconds)","pass",0.0248341,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"356","wc2int error for no size","runtime (in seconds)","pass",0.0235759,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"357","wc2int error for no size","runtime (in seconds)","pass",0.0235379,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"358","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0726642,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"359","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0768678,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"360","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0751568,"PeakSegFPOP is ","ae614443b4561eb57a03d9d369fa735d664864d2",2019-08-09 19:24:55
+"361","wc2int works with initial space","runtime (in seconds)","pass",0.0085495,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"362","wc2int works with initial space","runtime (in seconds)","pass",0.007508,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"363","wc2int works with initial space","runtime (in seconds)","pass",0.0072881,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"364","wc2int works without initial space","runtime (in seconds)","pass",0.0083704,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"365","wc2int works without initial space","runtime (in seconds)","pass",0.0075318,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"366","wc2int works without initial space","runtime (in seconds)","pass",0.0073546,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"367","wc2int error for bad input","runtime (in seconds)","pass",0.037954,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"368","wc2int error for bad input","runtime (in seconds)","pass",0.0377768,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"369","wc2int error for bad input","runtime (in seconds)","pass",0.0414297,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"370","wc2int error for no size","runtime (in seconds)","pass",0.0250634,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"371","wc2int error for no size","runtime (in seconds)","pass",0.023805,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"372","wc2int error for no size","runtime (in seconds)","pass",0.024856,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"373","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0751268,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"374","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.078798,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"375","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0765166,"Merge pull requ","9b4c878739b2af2a06076e9fde91a6375c342376",2019-08-09 17:30:47
+"376","wc2int works with initial space","runtime (in seconds)","pass",0.0081712,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"377","wc2int works with initial space","runtime (in seconds)","pass",0.0073804,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"378","wc2int works with initial space","runtime (in seconds)","pass",0.0072857,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"379","wc2int works without initial space","runtime (in seconds)","pass",0.0084807,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"380","wc2int works without initial space","runtime (in seconds)","pass",0.0076056,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"381","wc2int works without initial space","runtime (in seconds)","pass",0.0074545,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"382","wc2int error for bad input","runtime (in seconds)","pass",0.0379383,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"383","wc2int error for bad input","runtime (in seconds)","pass",0.0380866,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"384","wc2int error for bad input","runtime (in seconds)","pass",0.0446646,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"385","wc2int error for no size","runtime (in seconds)","pass",0.0250509,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"386","wc2int error for no size","runtime (in seconds)","pass",0.0234777,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"387","wc2int error for no size","runtime (in seconds)","pass",0.0243692,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"388","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0730097,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"389","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0788412,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"390","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0767538,"remove ser clas","2f9822380b7e89821938dca38fcd9d97d2d63429",2019-08-09 17:08:56
+"391","wc2int works with initial space","runtime (in seconds)","pass",0.0081646,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"392","wc2int works with initial space","runtime (in seconds)","pass",0.0073658,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"393","wc2int works with initial space","runtime (in seconds)","pass",0.0072848,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"394","wc2int works without initial space","runtime (in seconds)","pass",0.0081522,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"395","wc2int works without initial space","runtime (in seconds)","pass",0.0074251,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"396","wc2int works without initial space","runtime (in seconds)","pass",0.0073538,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"397","wc2int error for bad input","runtime (in seconds)","pass",0.038253,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"398","wc2int error for bad input","runtime (in seconds)","pass",0.0380773,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"399","wc2int error for bad input","runtime (in seconds)","pass",0.0413097,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"400","wc2int error for no size","runtime (in seconds)","pass",0.0239986,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"401","wc2int error for no size","runtime (in seconds)","pass",0.0230236,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"402","wc2int error for no size","runtime (in seconds)","pass",0.023022,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"403","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0719308,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"404","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0736051,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"405","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0732916,"Revert ""seriali","dbaa394483f0999d2e4bdf7358cc91d2760ac60c",2019-08-09 17:07:39
+"406","wc2int works with initial space","runtime (in seconds)","pass",0.0083276,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"407","wc2int works with initial space","runtime (in seconds)","pass",0.0075282,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"408","wc2int works with initial space","runtime (in seconds)","pass",0.0073701,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"409","wc2int works without initial space","runtime (in seconds)","pass",0.0084657,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"410","wc2int works without initial space","runtime (in seconds)","pass",0.0074498,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"411","wc2int works without initial space","runtime (in seconds)","pass",0.0074133,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"412","wc2int error for bad input","runtime (in seconds)","pass",0.0381659,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"413","wc2int error for bad input","runtime (in seconds)","pass",0.038177,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"414","wc2int error for bad input","runtime (in seconds)","pass",0.0419508,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"415","wc2int error for no size","runtime (in seconds)","pass",0.0244911,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"416","wc2int error for no size","runtime (in seconds)","pass",0.0235094,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"417","wc2int error for no size","runtime (in seconds)","pass",0.0243662,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"418","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.075028,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"419","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.0829363,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"420","test-CRAN-wc2int.R","runtime (in seconds)","pass",0.07803,"test char scala","1cc926bb6d19c95af9cfaaf2394e8872ceb6d31f",2019-08-09 17:04:47
+"421","wc2int works with initial space","runtime (in seconds)","pass",0.0087713,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"422","wc2int works with initial space","runtime (in seconds)","pass",0.0075448,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"423","wc2int works with initial space","runtime (in seconds)","pass",0.0074496,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"424","wc2int works without initial space","runtime (in seconds)","pass",0.0082659,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"425","wc2int works without initial space","runtime (in seconds)","pass",0.0074059,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"426","wc2int works without initial space","runtime (in seconds)","pass",0.0073193,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"427","wc2int error for bad input","runtime (in seconds)","pass",0.0821469,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"428","wc2int error for bad input","runtime (in seconds)","pass",0.0832047,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"429","wc2int error for bad input","runtime (in seconds)","pass",0.0847473,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"430","wc2int error for no size","runtime (in seconds)","pass",0.0241554,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"431","wc2int error for no size","runtime (in seconds)","pass",0.0230502,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"432","wc2int error for no size","runtime (in seconds)","pass",0.022989,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"433","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"remove fail","229d434a32c7f9007a55ddadd8817ac2b2165148",2019-08-09 17:04:15
+"434","wc2int works with initial space","runtime (in seconds)","pass",0.0086967,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"435","wc2int works with initial space","runtime (in seconds)","pass",0.007655,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"436","wc2int works with initial space","runtime (in seconds)","pass",0.0073957,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"437","wc2int works without initial space","runtime (in seconds)","pass",0.0084216,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"438","wc2int works without initial space","runtime (in seconds)","pass",0.0074136,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"439","wc2int works without initial space","runtime (in seconds)","pass",0.007371,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"440","wc2int error for bad input","runtime (in seconds)","pass",0.0832626,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"441","wc2int error for bad input","runtime (in seconds)","pass",0.0885099,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"442","wc2int error for bad input","runtime (in seconds)","pass",0.0854173,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"443","wc2int error for no size","runtime (in seconds)","pass",0.0251251,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"444","wc2int error for no size","runtime (in seconds)","pass",0.0239571,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"445","wc2int error for no size","runtime (in seconds)","pass",0.0238977,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"446","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"more informativ","f329d111210d2f65fb767095ea3f7e442cb9f4d6",2019-08-09 16:39:31
+"447","wc2int works with initial space","runtime (in seconds)","pass",0.0082326,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"448","wc2int works with initial space","runtime (in seconds)","pass",0.0074471,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"449","wc2int works with initial space","runtime (in seconds)","pass",0.0073143,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"450","wc2int works without initial space","runtime (in seconds)","pass",0.0083861,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"451","wc2int works without initial space","runtime (in seconds)","pass",0.007425,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"452","wc2int works without initial space","runtime (in seconds)","pass",0.0073567,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"453","wc2int error for bad input","runtime (in seconds)","pass",0.0825352,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"454","wc2int error for bad input","runtime (in seconds)","pass",0.0844957,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"455","wc2int error for bad input","runtime (in seconds)","pass",0.0840642,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"456","wc2int error for no size","runtime (in seconds)","pass",0.0243731,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"457","wc2int error for no size","runtime (in seconds)","pass",0.0231941,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"458","wc2int error for no size","runtime (in seconds)","pass",0.0238527,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"459","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"wc2int","ce6037311e3288dadbc6da861fdbdba49c396e02",2019-08-09 15:04:42
+"460","wc2int works with initial space","runtime (in seconds)","pass",0.0080719,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"461","wc2int works with initial space","runtime (in seconds)","pass",0.0073671,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"462","wc2int works with initial space","runtime (in seconds)","pass",0.0072381,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"463","wc2int works without initial space","runtime (in seconds)","pass",0.0086829,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"464","wc2int works without initial space","runtime (in seconds)","pass",0.0081952,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"465","wc2int works without initial space","runtime (in seconds)","pass",0.0072406,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"466","wc2int error for bad input","runtime (in seconds)","pass",0.0714241,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"467","wc2int error for bad input","runtime (in seconds)","pass",0.0740145,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"468","wc2int error for bad input","runtime (in seconds)","pass",0.0735852,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"469","wc2int error for no size","runtime (in seconds)","pass",0.0120414,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"470","wc2int error for no size","runtime (in seconds)","pass",0.0112526,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"471","wc2int error for no size","runtime (in seconds)","pass",0.0110311,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"472","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"serialize metho","b6687e9d795a9fedbc34743c0b1a132d1b5a7345",2019-08-07 05:38:39
+"473","wc2int works with initial space","runtime (in seconds)","pass",0.0077791,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"474","wc2int works with initial space","runtime (in seconds)","pass",0.0072994,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"475","wc2int works with initial space","runtime (in seconds)","pass",0.007221,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"476","wc2int works without initial space","runtime (in seconds)","pass",0.0078372,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"477","wc2int works without initial space","runtime (in seconds)","pass",0.0072619,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"478","wc2int works without initial space","runtime (in seconds)","pass",0.0072082,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"479","wc2int error for bad input","runtime (in seconds)","pass",0.0723223,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"480","wc2int error for bad input","runtime (in seconds)","pass",0.0741796,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"481","wc2int error for bad input","runtime (in seconds)","pass",0.0729851,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"482","wc2int error for no size","runtime (in seconds)","pass",0.0120738,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"483","wc2int error for no size","runtime (in seconds)","pass",0.0112531,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"484","wc2int error for no size","runtime (in seconds)","pass",0.0111433,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"485","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"Update README.o","70ae0b1839120190c7a8bc703aa29558ddeac7ce",2019-07-31 23:37:39
+"486","wc2int works with initial space","runtime (in seconds)","pass",0.007946,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"487","wc2int works with initial space","runtime (in seconds)","pass",0.007196,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"488","wc2int works with initial space","runtime (in seconds)","pass",0.0070749,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"489","wc2int works without initial space","runtime (in seconds)","pass",0.0077104,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"490","wc2int works without initial space","runtime (in seconds)","pass",0.0072212,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"491","wc2int works without initial space","runtime (in seconds)","pass",0.0071264,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"492","wc2int error for bad input","runtime (in seconds)","pass",0.0706246,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"493","wc2int error for bad input","runtime (in seconds)","pass",0.0719758,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"494","wc2int error for bad input","runtime (in seconds)","pass",0.0711953,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"495","wc2int error for no size","runtime (in seconds)","pass",0.0117516,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"496","wc2int error for no size","runtime (in seconds)","pass",0.0109473,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"497","wc2int error for no size","runtime (in seconds)","pass",0.0108592,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"498","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"Update README.o","e30cc7d9fdfcf2e66c648c8f166c6c9f30a0d607",2019-07-31 23:36:33
+"499","wc2int works with initial space","runtime (in seconds)","pass",0.0077097,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"500","wc2int works with initial space","runtime (in seconds)","pass",0.0072377,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"501","wc2int works with initial space","runtime (in seconds)","pass",0.0071678,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"502","wc2int works without initial space","runtime (in seconds)","pass",0.0078518,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"503","wc2int works without initial space","runtime (in seconds)","pass",0.0072271,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"504","wc2int works without initial space","runtime (in seconds)","pass",0.0071514,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"505","wc2int error for bad input","runtime (in seconds)","pass",0.0715147,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"506","wc2int error for bad input","runtime (in seconds)","pass",0.0730633,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"507","wc2int error for bad input","runtime (in seconds)","pass",0.0716533,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"508","wc2int error for no size","runtime (in seconds)","pass",0.0118213,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"509","wc2int error for no size","runtime (in seconds)","pass",0.011012,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"510","wc2int error for no size","runtime (in seconds)","pass",0.0109173,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"511","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"link vingetes","132727acf44b22ae6ad21f84b5aeb92d94ac950a",2019-07-31 23:35:45
+"512","wc2int works with initial space","runtime (in seconds)","pass",0.0077706,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"513","wc2int works with initial space","runtime (in seconds)","pass",0.0072645,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"514","wc2int works with initial space","runtime (in seconds)","pass",0.0071945,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"515","wc2int works without initial space","runtime (in seconds)","pass",0.0078631,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"516","wc2int works without initial space","runtime (in seconds)","pass",0.0073331,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"517","wc2int works without initial space","runtime (in seconds)","pass",0.0072794,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"518","wc2int error for bad input","runtime (in seconds)","pass",0.0711406,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"519","wc2int error for bad input","runtime (in seconds)","pass",0.0733984,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"520","wc2int error for bad input","runtime (in seconds)","pass",0.0727394,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"521","wc2int error for no size","runtime (in seconds)","pass",0.0120397,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"522","wc2int error for no size","runtime (in seconds)","pass",0.0110703,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"523","wc2int error for no size","runtime (in seconds)","pass",0.0110077,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"524","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"Update README.o","7d29d08fe104bdcbe5d3db772ffa3d5f17bf5b14",2019-07-31 21:01:59
+"525","wc2int works with initial space","runtime (in seconds)","pass",0.007933,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"526","wc2int works with initial space","runtime (in seconds)","pass",0.00727,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"527","wc2int works with initial space","runtime (in seconds)","pass",0.0072111,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"528","wc2int works without initial space","runtime (in seconds)","pass",0.0078612,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"529","wc2int works without initial space","runtime (in seconds)","pass",0.0072502,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"530","wc2int works without initial space","runtime (in seconds)","pass",0.0072368,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"531","wc2int error for bad input","runtime (in seconds)","pass",0.0716208,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"532","wc2int error for bad input","runtime (in seconds)","pass",0.0733675,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"533","wc2int error for bad input","runtime (in seconds)","pass",0.0740385,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"534","wc2int error for no size","runtime (in seconds)","pass",0.0120338,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"535","wc2int error for no size","runtime (in seconds)","pass",0.0112215,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"536","wc2int error for no size","runtime (in seconds)","pass",0.0110716,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"537","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"Merge pull requ","4692995e2322f2f465989996b4988f776856054d",2019-07-31 21:01:02
+"538","wc2int works with initial space","runtime (in seconds)","pass",0.0079482,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"539","wc2int works with initial space","runtime (in seconds)","pass",0.0072953,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"540","wc2int works with initial space","runtime (in seconds)","pass",0.0073082,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"541","wc2int works without initial space","runtime (in seconds)","pass",0.0080852,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"542","wc2int works without initial space","runtime (in seconds)","pass",0.0074013,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"543","wc2int works without initial space","runtime (in seconds)","pass",0.007236,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"544","wc2int error for bad input","runtime (in seconds)","pass",0.0713652,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"545","wc2int error for bad input","runtime (in seconds)","pass",0.0738626,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"546","wc2int error for bad input","runtime (in seconds)","pass",0.072953,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"547","wc2int error for no size","runtime (in seconds)","pass",0.0123062,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"548","wc2int error for no size","runtime (in seconds)","pass",0.0113359,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"549","wc2int error for no size","runtime (in seconds)","pass",0.0111614,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"550","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"if require inli","f30654bd4665e942d485756ecf1d8123f08d2f92",2019-07-31 20:37:29
+"551","wc2int works with initial space","runtime (in seconds)","pass",0.007888,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"552","wc2int works with initial space","runtime (in seconds)","pass",0.0072368,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"553","wc2int works with initial space","runtime (in seconds)","pass",0.0072316,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"554","wc2int works without initial space","runtime (in seconds)","pass",0.0078475,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"555","wc2int works without initial space","runtime (in seconds)","pass",0.0073158,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"556","wc2int works without initial space","runtime (in seconds)","pass",0.0071951,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"557","wc2int error for bad input","runtime (in seconds)","pass",0.0711617,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"558","wc2int error for bad input","runtime (in seconds)","pass",0.0726278,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"559","wc2int error for bad input","runtime (in seconds)","pass",0.0719965,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"560","wc2int error for no size","runtime (in seconds)","pass",0.0119415,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"561","wc2int error for no size","runtime (in seconds)","pass",0.0111417,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"562","wc2int error for no size","runtime (in seconds)","pass",0.0110564,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"563","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"links at start/","1017d5271971e6895af73cfc97b91d28adbc9c7c",2019-07-31 20:19:25
+"564","wc2int works with initial space","runtime (in seconds)","pass",0.007965,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"565","wc2int works with initial space","runtime (in seconds)","pass",0.0073382,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"566","wc2int works with initial space","runtime (in seconds)","pass",0.0073027,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"567","wc2int works without initial space","runtime (in seconds)","pass",0.0078359,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"568","wc2int works without initial space","runtime (in seconds)","pass",0.0071897,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"569","wc2int works without initial space","runtime (in seconds)","pass",0.0071603,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"570","wc2int error for bad input","runtime (in seconds)","pass",0.0704559,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"571","wc2int error for bad input","runtime (in seconds)","pass",0.0720239,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"572","wc2int error for bad input","runtime (in seconds)","pass",0.0713791,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"573","wc2int error for no size","runtime (in seconds)","pass",0.0128615,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"574","wc2int error for no size","runtime (in seconds)","pass",0.012001,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"575","wc2int error for no size","runtime (in seconds)","pass",0.0116931,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"576","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"if(interactive(","a5fe45257a8b14c3da78f6f7cee0139e18692b67",2019-07-30 23:44:46
+"577","wc2int works with initial space","runtime (in seconds)","pass",0.0078348,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"578","wc2int works with initial space","runtime (in seconds)","pass",0.0073336,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"579","wc2int works with initial space","runtime (in seconds)","pass",0.0072317,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"580","wc2int works without initial space","runtime (in seconds)","pass",0.0079581,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"581","wc2int works without initial space","runtime (in seconds)","pass",0.0073942,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"582","wc2int works without initial space","runtime (in seconds)","pass",0.0073158,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"583","wc2int error for bad input","runtime (in seconds)","pass",0.0720751,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"584","wc2int error for bad input","runtime (in seconds)","pass",0.0740794,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"585","wc2int error for bad input","runtime (in seconds)","pass",0.0734448,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"586","wc2int error for no size","runtime (in seconds)","pass",0.0125145,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"587","wc2int error for no size","runtime (in seconds)","pass",0.0115686,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"588","wc2int error for no size","runtime (in seconds)","pass",0.0114373,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"589","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"why encoding","2854cb9b2998b4bc8d09657a056d7eb1f25e1209",2019-07-30 22:22:44
+"590","wc2int works with initial space","runtime (in seconds)","pass",0.007952,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"591","wc2int works with initial space","runtime (in seconds)","pass",0.0073637,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"592","wc2int works with initial space","runtime (in seconds)","pass",0.0072652,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"593","wc2int works without initial space","runtime (in seconds)","pass",0.0079453,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"594","wc2int works without initial space","runtime (in seconds)","pass",0.0072947,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"595","wc2int works without initial space","runtime (in seconds)","pass",0.0072947,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"596","wc2int error for bad input","runtime (in seconds)","pass",0.0714301,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"597","wc2int error for bad input","runtime (in seconds)","pass",0.0733647,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"598","wc2int error for bad input","runtime (in seconds)","pass",0.0727358,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"599","wc2int error for no size","runtime (in seconds)","pass",0.0120685,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"600","wc2int error for no size","runtime (in seconds)","pass",0.0113831,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"601","wc2int error for no size","runtime (in seconds)","pass",0.0112898,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"602","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"generic build","8ff4be3b64e9e42a7e3110405822047da00d9d6b",2019-07-30 21:12:49
+"603","wc2int works with initial space","runtime (in seconds)","pass",0.0077561,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"604","wc2int works with initial space","runtime (in seconds)","pass",0.0072299,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"605","wc2int works with initial space","runtime (in seconds)","pass",0.0071178,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"606","wc2int works without initial space","runtime (in seconds)","pass",0.0078193,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"607","wc2int works without initial space","runtime (in seconds)","pass",0.0072001,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"608","wc2int works without initial space","runtime (in seconds)","pass",0.0070753,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"609","wc2int error for bad input","runtime (in seconds)","pass",0.0710144,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"610","wc2int error for bad input","runtime (in seconds)","pass",0.0732546,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"611","wc2int error for bad input","runtime (in seconds)","pass",0.0728373,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"612","wc2int error for no size","runtime (in seconds)","pass",0.0121664,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"613","wc2int error for no size","runtime (in seconds)","pass",0.0111768,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"614","wc2int error for no size","runtime (in seconds)","pass",0.010989,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"615","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"ghostcript","a09ada34b5d92ecc132a145eb5c378e52a05e75b",2019-07-30 20:46:16
+"616","wc2int works with initial space","runtime (in seconds)","pass",0.0081186,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"617","wc2int works with initial space","runtime (in seconds)","pass",0.0073482,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"618","wc2int works with initial space","runtime (in seconds)","pass",0.0072551,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"619","wc2int works without initial space","runtime (in seconds)","pass",0.0079523,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"620","wc2int works without initial space","runtime (in seconds)","pass",0.0073373,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"621","wc2int works without initial space","runtime (in seconds)","pass",0.0072067,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"622","wc2int error for bad input","runtime (in seconds)","pass",0.0715977,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"623","wc2int error for bad input","runtime (in seconds)","pass",0.0750927,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"624","wc2int error for bad input","runtime (in seconds)","pass",0.075015,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"625","wc2int error for no size","runtime (in seconds)","pass",0.0124157,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"626","wc2int error for no size","runtime (in seconds)","pass",0.0114454,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"627","wc2int error for no size","runtime (in seconds)","pass",0.0112674,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"628","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"urls","cae63e8e844a1e017a245f0d3cd9be27d21c2aa0",2019-07-30 20:15:19
+"629","wc2int works with initial space","runtime (in seconds)","pass",0.0079644,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"630","wc2int works with initial space","runtime (in seconds)","pass",0.0075145,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"631","wc2int works with initial space","runtime (in seconds)","pass",0.0074694,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"632","wc2int works without initial space","runtime (in seconds)","pass",0.0083434,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"633","wc2int works without initial space","runtime (in seconds)","pass",0.0076042,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"634","wc2int works without initial space","runtime (in seconds)","pass",0.0074887,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"635","wc2int error for bad input","runtime (in seconds)","pass",0.0716535,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"636","wc2int error for bad input","runtime (in seconds)","pass",0.07325,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"637","wc2int error for bad input","runtime (in seconds)","pass",0.0720451,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"638","wc2int error for no size","runtime (in seconds)","pass",0.0123691,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"639","wc2int error for no size","runtime (in seconds)","pass",0.0113209,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"640","wc2int error for no size","runtime (in seconds)","pass",0.0110109,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"641","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"move opt prob /","b8687ff192232003d5177560d19705b26422d431",2019-07-30 19:36:14
+"642","wc2int works with initial space","runtime (in seconds)","pass",0.0080066,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"643","wc2int works with initial space","runtime (in seconds)","pass",0.007395,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"644","wc2int works with initial space","runtime (in seconds)","pass",0.0072184,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"645","wc2int works without initial space","runtime (in seconds)","pass",0.0086641,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"646","wc2int works without initial space","runtime (in seconds)","pass",0.0072748,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"647","wc2int works without initial space","runtime (in seconds)","pass",0.0074242,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"648","wc2int error for bad input","runtime (in seconds)","pass",0.0697576,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"649","wc2int error for bad input","runtime (in seconds)","pass",0.0721703,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"650","wc2int error for bad input","runtime (in seconds)","pass",0.0707876,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"651","wc2int error for no size","runtime (in seconds)","pass",0.0114714,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"652","wc2int error for no size","runtime (in seconds)","pass",0.0107563,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"653","wc2int error for no size","runtime (in seconds)","pass",0.0105929,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"654","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"show how cachin","f713ab142af5a516c8b7a2401256748ba109c812",2019-07-30 17:01:45
+"655","wc2int works with initial space","runtime (in seconds)","pass",0.0079802,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"656","wc2int works with initial space","runtime (in seconds)","pass",0.0074696,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"657","wc2int works with initial space","runtime (in seconds)","pass",0.0072362,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"658","wc2int works without initial space","runtime (in seconds)","pass",0.0078101,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"659","wc2int works without initial space","runtime (in seconds)","pass",0.0072942,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"660","wc2int works without initial space","runtime (in seconds)","pass",0.0071924,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"661","wc2int error for bad input","runtime (in seconds)","pass",0.0697173,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"662","wc2int error for bad input","runtime (in seconds)","pass",0.0728025,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"663","wc2int error for bad input","runtime (in seconds)","pass",0.0735395,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"664","wc2int error for no size","runtime (in seconds)","pass",0.0117172,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"665","wc2int error for no size","runtime (in seconds)","pass",0.0109925,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"666","wc2int error for no size","runtime (in seconds)","pass",0.0107103,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"667","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"valgrind msg fi","d590169a396ed142a4c084609651df68e75fc4cd",2019-07-29 22:12:13
+"668","wc2int works with initial space","runtime (in seconds)","pass",0.007906,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"669","wc2int works with initial space","runtime (in seconds)","pass",0.0072995,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"670","wc2int works with initial space","runtime (in seconds)","pass",0.007289,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"671","wc2int works without initial space","runtime (in seconds)","pass",0.0079568,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"672","wc2int works without initial space","runtime (in seconds)","pass",0.0073759,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"673","wc2int works without initial space","runtime (in seconds)","pass",0.0072882,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"674","wc2int error for bad input","runtime (in seconds)","pass",0.0710682,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"675","wc2int error for bad input","runtime (in seconds)","pass",0.0734574,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"676","wc2int error for bad input","runtime (in seconds)","pass",0.0732349,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"677","wc2int error for no size","runtime (in seconds)","pass",0.0117003,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"678","wc2int error for no size","runtime (in seconds)","pass",0.0110085,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"679","wc2int error for no size","runtime (in seconds)","pass",0.0107985,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"680","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"use v2 for ChIP","d25a05c05ceb486528c2bef395dcc1983d26bc00",2019-07-28 02:14:48
+"681","wc2int works with initial space","runtime (in seconds)","pass",0.008171,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"682","wc2int works with initial space","runtime (in seconds)","pass",0.0075324,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"683","wc2int works with initial space","runtime (in seconds)","pass",0.0073911,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"684","wc2int works without initial space","runtime (in seconds)","pass",0.0082616,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"685","wc2int works without initial space","runtime (in seconds)","pass",0.007515,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"686","wc2int works without initial space","runtime (in seconds)","pass",0.0074649,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"687","wc2int error for bad input","runtime (in seconds)","pass",0.0710507,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"688","wc2int error for bad input","runtime (in seconds)","pass",0.0730027,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"689","wc2int error for bad input","runtime (in seconds)","pass",0.07208,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"690","wc2int error for no size","runtime (in seconds)","pass",0.0116324,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"691","wc2int error for no size","runtime (in seconds)","pass",0.0107761,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"692","wc2int error for no size","runtime (in seconds)","pass",0.0106511,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"693","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"try respecting ","9efe6a7743d32ed28e7495da5c60f7b7eecb20d1",2019-07-27 05:34:58
+"694","wc2int works with initial space","runtime (in seconds)","pass",0.0078344,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"695","wc2int works with initial space","runtime (in seconds)","pass",0.0072196,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"696","wc2int works with initial space","runtime (in seconds)","pass",0.0071362,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"697","wc2int works without initial space","runtime (in seconds)","pass",0.0078598,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"698","wc2int works without initial space","runtime (in seconds)","pass",0.0073135,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"699","wc2int works without initial space","runtime (in seconds)","pass",0.0072004,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"700","wc2int error for bad input","runtime (in seconds)","pass",0.0704537,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"701","wc2int error for bad input","runtime (in seconds)","pass",0.0723701,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"702","wc2int error for bad input","runtime (in seconds)","pass",0.071516,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"703","wc2int error for no size","runtime (in seconds)","pass",0.0123986,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"704","wc2int error for no size","runtime (in seconds)","pass",0.0111492,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"705","wc2int error for no size","runtime (in seconds)","pass",0.010912,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
+"706","test-CRAN-wc2int.R","runtime (in seconds)","pass",NA,"fit$search","058b550d943caf90a695ef8b733235bb566bcd75",2019-07-25 19:58:11
